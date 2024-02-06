@@ -1,3 +1,5 @@
+#1/bin/bash
+
 declare -A X
 declare -A Y
 declare -A Z
