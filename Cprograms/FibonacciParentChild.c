@@ -1,3 +1,5 @@
+//Implement using shmat and shmget
+
 //parent
 
 #include <stdio.h>
