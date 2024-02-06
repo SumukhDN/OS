@@ -1,3 +1,5 @@
+#!/bib/bash
+
 echo "Enter the three numbers: "
 read num1 num2 num3
 
