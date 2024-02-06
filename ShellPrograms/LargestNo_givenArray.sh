@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter the number of elements in the array: "
 read n
 echo "Enter the elemnts of the array: "
