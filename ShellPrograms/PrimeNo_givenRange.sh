@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter start and end :"
 read start end
 flag=1
