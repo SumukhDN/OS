@@ -1,4 +1,4 @@
-//Implement usinh shmat and shmget
+//Implement usinh shmat and shmget.
 
 //child
 #include <stdio.h>
