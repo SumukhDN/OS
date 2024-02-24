@@ -1,4 +1,4 @@
-//Simulate ls command using system calls
+//Simulate ls command using system calls.
 
 #include <stdio.h>
 #include <dirent.h>
