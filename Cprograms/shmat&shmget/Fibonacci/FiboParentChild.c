@@ -1,4 +1,4 @@
-//Implement using shmat and shmget
+//Implement using shmat and shmget.
 
 //parent
 
