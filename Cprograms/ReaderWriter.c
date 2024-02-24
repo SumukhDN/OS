@@ -1,4 +1,4 @@
-//Implement solution to reader-writer using mutex and semaphore
+//Implement solution to reader-writer using mutex and semaphore.
 
 #include <pthread.h>
 #include <semaphore.h>
