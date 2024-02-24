@@ -1,4 +1,4 @@
-//Rounf Robin CPU scheduling algorithm
+//Rounf Robin CPU scheduling algorithm.
 
 #include <stdio.h>
 struct process
