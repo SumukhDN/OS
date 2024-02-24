@@ -1,4 +1,4 @@
-//Implement using shm_open and mmap
+//Implement using shm_open and mmap.
 
 //parent
 #include <stdlib.h>
