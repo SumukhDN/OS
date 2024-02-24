@@ -1,4 +1,4 @@
-//Parent Child Program
+//Parent Child Program.
 
 #include <stdio.h>
 #include <sys/types.h>
