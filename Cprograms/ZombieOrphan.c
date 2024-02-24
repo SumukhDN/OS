@@ -1,7 +1,7 @@
 //Implement program to demonstrate Zombie and Orphan process.
 
-//Orphan
 
+//Orphan
 
 #include <stdio.h>
 #include <unistd.h>
@@ -45,7 +45,6 @@ void main()
 
 
 //zombie
-
 
 #include <stdio.h>
 #include <unistd.h>
