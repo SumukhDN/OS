@@ -1,4 +1,4 @@
-//Implement program to demonstrate Zombie and Orphan process
+//Implement program to demonstrate Zombie and Orphan process.
 
 //Orphan
 
