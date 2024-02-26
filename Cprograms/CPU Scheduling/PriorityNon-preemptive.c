@@ -1,4 +1,4 @@
-//Priority Non-preemptive CPU scheduling C program.
+//Priority Non-preemptive CPU scheduling C program
 
 #include <stdio.h>
 struct process
