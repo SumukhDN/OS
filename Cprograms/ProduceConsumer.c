@@ -1,4 +1,4 @@
-//Implement solution to producer-consumer problem using mutex and semaphores.
+//Implement solution to producer-consumer problem using mutex and semaphores
 
 #include <stdio.h>
 #include <semaphore.h>
