@@ -1,5 +1,5 @@
 /*
-Perform following tasks using I/O system calls.
+Perform following tasks using I/O system calls
 1)Reading first 10 characters from file 
 2)Skipping 5 characters from current position of file
 3)Going to 5th last character in the file
