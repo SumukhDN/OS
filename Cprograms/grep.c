@@ -1,4 +1,4 @@
-//Simulate grep command using system call.
+//Simulate grep command using system call
 
 #include <stdio.h>
 #include <string.h>
