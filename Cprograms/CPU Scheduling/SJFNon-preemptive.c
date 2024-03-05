@@ -1,4 +1,4 @@
-//SJF Non-preeptive CPU scheduling C program..
+//SJF Non-preeptive CPU scheduling C program.
 
 #include <stdio.h>
 struct process
