@@ -1,4 +1,4 @@
-//FCFS CPU scheduling Algorithm in C program..
+//FCFS CPU scheduling Algorithm in C program.
 
 #include <stdio.h>
 struct process
